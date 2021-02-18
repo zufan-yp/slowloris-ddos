@@ -16,14 +16,13 @@ If you found this work useful, please cite it as
 
 ```Zufan Ramdan,
   title = "DDOS Tools - Slowloris",
-  author = "Zufan Ramdan",
+  Tested = "Zufan Ramdan",
   year = "2020",
   url = "https://github.com/zufan-yp/slowloris-ddos"
 }
 ```
 
 ```CopyrightBy@,
-  title = "Slowloris",
   author = "Gokberk Yaltirakli",
   journal = "github.com",
   year = "2015",
