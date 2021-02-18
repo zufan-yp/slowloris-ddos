@@ -13,8 +13,16 @@ This exhausts the servers thread pool and the server can't reply to other people
 
 If you found this work useful, please cite it as
 
-```bibtex
-@article{gkbrkslowloris,
+
+```Zufan Ramdan,
+  title = "DDOS Tools - Slowloris",
+  author = "Zufan Ramdan",
+  year = "2020",
+  url = "https://github.com/zufan-yp/slowloris-ddos"
+}
+```
+
+```CopyrightBy@,
   title = "Slowloris",
   author = "Gokberk Yaltirakli",
   journal = "github.com",
